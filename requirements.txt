@@ -1,0 +1,4 @@
+crewai==0.70.1
+crewai-tools==0.12.1
+python-dotenv==1.0.1
+langchain_groq
